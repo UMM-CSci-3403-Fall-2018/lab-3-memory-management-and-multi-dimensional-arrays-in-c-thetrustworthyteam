@@ -7,4 +7,6 @@
 
 void mergesort(int size, int values[]);
 
+//int* array_merge(int num_arrays, int* sizes, int** values);
+
 #endif
